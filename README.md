@@ -102,7 +102,7 @@ Highlights **all-rounder performances** combining batting, bowling, and fielding
 
 ---
 
-> **Cricket** is not just about numbers — it’s about stories told through runs, wickets, and dismissals.*  
+> ***Cricket** is not just about numbers — it’s about stories told through runs, wickets, and dismissals.*  
 This dashboard is a **for the legends** who redefined the game across generations.  
 
 
