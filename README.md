@@ -85,13 +85,13 @@ Highlights **all-rounder performances** combining batting, bowling, and fielding
 
 ## 📸 Dashboard Previews   
 
-| Batting Performance | Bowling & All-Round Performance |
+| Batting Performance | Bowling Performance |
 |----------------------|--------------------------------|
-| <img src="images/top%2010%20batters.png" width="400"/> | <img src="images/top%2010%20bowlers.png" width="400"/> |
+| <img src="images/top 10 batters.png" width="400"/> | <img src="images/top 10 bowlers" width="400"/> |
 
 | Fielding & Dismissal Analytics | Individual Player Career Analysis |
 |--------------------------------|----------------------------------|
-| <img src="images/top%2010%20fielders.png" width="400"/> | <img src="images/top%20performers.png" width="400"/> |
+| <img src="images/top 10 fielders.png" width="400"/> | <img src="images/top performers.png" width="400"/> |
 
 ---
 
